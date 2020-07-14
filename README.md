@@ -1,2 +1,2 @@
 # Eureka
-Baby steps into programming
+Baby steps into Data Science
